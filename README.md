@@ -1,4 +1,4 @@
-NamaL Muhammad Abdul Hadi Amrul
+Nama: Muhammad Abdul Hadi Amrul\n
 NPM:2315061078
 PPWD
 
