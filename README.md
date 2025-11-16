@@ -7,8 +7,8 @@ File ini digunakan untuk halaman login sebagai bagian dari session management.
 Fungsinya:
 Menerima input username & password dari user
 Melakukan pengecekan kredensial (dalam contoh: admin / 123456)
-Jika benar → membuat session $_SESSION['logged_in'] = true lalu redirect ke index.php
-Jika salah → menampilkan pesan error
+Jika benar  membuat session $_SESSION['logged_in'] = true lalu redirect ke index.php
+Jika salah  menampilkan pesan error
 Menangani proses logout melalui parameter ?logout=1 dengan cara session_destroy() dan redirect ulang ke halaman login
 Singkatnya: Gerbang masuk aplikasi + tempat logout.
 
