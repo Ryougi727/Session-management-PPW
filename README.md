@@ -21,7 +21,7 @@ Tombol Edit untuk ubah data kontak ke edit.php
 Tombol Hapus yang menghapus index tertentu dari JSON lalu rewrite file
 Link Logout menuju login.php?logout=1
 
-#3. edit.php
+# 3. edit.php
 File ini dipakai untuk mengedit data kontak yang sudah tersimpan.
 Fungsinya:
 Mengambil parameter id dari URL
