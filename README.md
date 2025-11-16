@@ -1,6 +1,6 @@
-Nama: Muhammad Abdul Hadi Amrul\n
-NPM:2315061078
-PPWD
+Nama: Muhammad Abdul Hadi Amrul  
+NPM:2315061078  
+PPWD  
 
 # 1. login.php
 File ini digunakan untuk halaman login sebagai bagian dari session management.
